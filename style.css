@@ -1,0 +1,20 @@
+ .Dress{
+   font-size: medium;
+   font-weight: bold;
+   color:rgb(156, 28, 71);
+   text-align: left;
+
+ }
+ #topic{
+   font-size: larger;
+   font-weight: bolder;
+   color: rgb(39, 2, 15);
+   text-align: center;
+   margin-top: 10px;
+ }
+   body{ 
+      background-color: rgb(150, 16, 83);
+   }
+  main{
+   background-color: rgb(247, 227, 240);
+  }
